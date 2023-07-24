@@ -14,14 +14,14 @@ I will use in this project:
 3- sklearn is a simple and efficient tools for predictive data analysis. 
 
 ## 4.Steps:
-### 1- Dataset:
+### - Dataset:
 The dataset used is the sonar Rock vs Mine prediction from Kaggle. 
-### 2- Loading data by using pandas 
-### 3- Train Test Split:
+### - Loading data by using pandas 
+### - Train Test Split:
 I will train the model with 90% of
 training-data and 10% will be used to test-data. And evaluate the model
 with the help of test-data.
-### 4-Model Fitting:
+### - Model Fitting:
 I will use the supervised learning algorithm of logistic regression model because, this model works very well for Binary Classification Problem. It is a Binary Classification Problem (Rock or a Mine).
-### 5- Accuracy on the training and test data.
+### - Accuracy on the training and test data.
 
