@@ -29,7 +29,7 @@ charges – Medical Insurance costs per year for the person.
 
 ### -EDA
 
-• Feature sex and smmoker all most  balanced.
+• Feature sex and smoker all most  balanced.
 
 
 ![sex](https://github.com/Basma-khalil-335/Machine-Learning/assets/113937027/c809388a-225e-4379-8f72-74541009f949) ![smoker](https://github.com/Basma-khalil-335/Machine-Learning/assets/113937027/6fef1e7a-ca12-42ab-ab09-f63ac7b3be65)
