@@ -19,16 +19,15 @@
 ### -Data Exploring
 Dataset consists of 1338 records. Each record contains the below data for specific person.
 
-age – Age of the person
-sex – Sex of the person
-bmi – Body Mass Index(BMI) of the person
-children – Number of children for the person
-smoker – Smoking status of the person
-region – Region of the person in US
-charges – Medical Insurance costs per year for the person
+age – Age of the person.
+sex – Sex of the person.
+bmi – Body Mass Index(BMI) of the person.
+children – Number of children for the person.
+smoker – Smoking status of the person.
+region – Region of the person in US.
+charges – Medical Insurance costs per year for the person.
 
-### EDA:
- 
-
+### -EDA
 
 
+![AGE](https://github.com/Basma-khalil-335/Machine-Learning/assets/113937027/0b5a3d72-e5e5-445c-9328-6c11e39a3cbc)
