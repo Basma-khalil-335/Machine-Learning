@@ -1,7 +1,7 @@
 # Medical Insurance Cost Prediction
 
-## 1-Background :
--This paper represents a machine learning-based health insurance prediction system. Recently, many attempts have been made to solve this problem, as after Covid-19 pandemic, health insurance has become one of the most prominent areas of research. We have used the USA's medical cost personal dataset from kaggle, having 1338 entries. Features in the dataset that are used for the prediction of insurance cost include: Age, Gender, BMI, Smoking Habit, number of children etc. We used linear regression and also determined the relation between price and these features. We trained the system using a 80-20 split .
+## 1-Overview :
+-This project represents a machine learning-based health insurance prediction system. Recently, many attempts have been made to solve this problem, as after Covid-19 pandemic, health insurance has become one of the most prominent areas of research. We have used the USA's medical cost personal dataset from kaggle, having 1338 entries. Features in the dataset that are used for the prediction of insurance cost include: Age, Gender, BMI, Smoking Habit, number of children etc. We used linear regression and also determined the relation between price and these features. We trained the system using a 80-20 split .
 
 ## 2-Gools :
 - In this project We have used the USA's medical cost personal dataset from kaggle, having 1338 entries. Features in the dataset that are used for the prediction of insurance cost include: Age, Gender, BMI, Smoking Habit, number of children etc. We used linear regression and also determined the relation between price and these features. We trained the system using a 80-20 split .
@@ -29,14 +29,16 @@ charges – Medical Insurance costs per year for the person.
 
 ### -EDA
 
+• Feature sex and smmoker all most  balanced.
+
+
+![sex](https://github.com/Basma-khalil-335/Machine-Learning/assets/113937027/c809388a-225e-4379-8f72-74541009f949) ![smoker](https://github.com/Basma-khalil-335/Machine-Learning/assets/113937027/6fef1e7a-ca12-42ab-ab09-f63ac7b3be65)
+
+
 
 ![AGE](https://github.com/Basma-khalil-335/Machine-Learning/assets/113937027/0b5a3d72-e5e5-445c-9328-6c11e39a3cbc)
 
 
-![sex](https://github.com/Basma-khalil-335/Machine-Learning/assets/113937027/c809388a-225e-4379-8f72-74541009f949)
-
-
-![smoker](https://github.com/Basma-khalil-335/Machine-Learning/assets/113937027/6fef1e7a-ca12-42ab-ab09-f63ac7b3be65)
 
 
 ![BMI](https://github.com/Basma-khalil-335/Machine-Learning/assets/113937027/4720eaaa-2d1a-43dc-8602-82d4b46c0ac1)
