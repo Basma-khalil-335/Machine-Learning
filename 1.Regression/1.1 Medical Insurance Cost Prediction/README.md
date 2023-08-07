@@ -29,29 +29,27 @@ charges – Medical Insurance costs per year for the person.
 
 ### -EDA
 
-• Feature sex and smoker all most  balanced.
-
-
-![sex](https://github.com/Basma-khalil-335/Machine-Learning/assets/113937027/c809388a-225e-4379-8f72-74541009f949) ![smoker](https://github.com/Basma-khalil-335/Machine-Learning/assets/113937027/6fef1e7a-ca12-42ab-ab09-f63ac7b3be65)
-
-
-
+![sex](https://github.com/Basma-khalil-335/Machine-Learning/assets/113937027/c809388a-225e-4379-8f72-74541009f949)
+![smoker](https://github.com/Basma-khalil-335/Machine-Learning/assets/113937027/6fef1e7a-ca12-42ab-ab09-f63ac7b3be65)
 ![AGE](https://github.com/Basma-khalil-335/Machine-Learning/assets/113937027/0b5a3d72-e5e5-445c-9328-6c11e39a3cbc)
-
-
-
-
 ![BMI](https://github.com/Basma-khalil-335/Machine-Learning/assets/113937027/4720eaaa-2d1a-43dc-8602-82d4b46c0ac1)
-
-
 ![childern](https://github.com/Basma-khalil-335/Machine-Learning/assets/113937027/b3693200-56ce-4c07-bd1c-aba847f5f7c1)
-
-
-
 ![region](https://github.com/Basma-khalil-335/Machine-Learning/assets/113937027/40fa0ce0-d81a-48b6-a1df-3f242560f6e4)
-
-
 ![charge](https://github.com/Basma-khalil-335/Machine-Learning/assets/113937027/77238c20-f23a-4c38-8bf9-3f8b3cd10b06)
+
+### -Data processing 
+1- Check missing value - there are none
+2- Categorical Feature
+3- Categorical Feature transformation:
+- Encoding 'sex , region , smoker'
+4- Modeling
+  - Splitting the features and Targete.
+  - Splitting train & test data.
+  - Modeling using Linear Regression.
+
+ ### -Model Evaluation
+ 1- R squared value for the training_data_prediction is  0.7472945022920751 .
+ 2- R squared value for the test_data_prediction is  0.761829435021468 .
 
 
 
